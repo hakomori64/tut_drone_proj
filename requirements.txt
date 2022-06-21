@@ -1,6 +1,6 @@
 Django==2.2.5
 image==1.5.27
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 Pillow==6.1.0
 pynput==1.4.2
